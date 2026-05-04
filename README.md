@@ -1,2 +1,3 @@
-# gallery-rok-cdn
-Personal CDN
+# Static Assets
+
+Personal media storage.
